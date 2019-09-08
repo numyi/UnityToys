@@ -1,6 +1,13 @@
 
 Timeline/Library
 Timeline/Temp
+Timeline/.vs
+Timeline/.vscode
 AddressableAssetSystem/Library
 AddressableAssetSystem/Temp
 AddressableAssetSystem/.vs
+AddressableAssetSystem/.vscode
+EntityComponentSystem/Library
+EntityComponentSystem/Temp
+EntityComponentSystem/.vs
+EntityComponentSystem/.vscode
