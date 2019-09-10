@@ -11,3 +11,7 @@ EntityComponentSystem/Library
 EntityComponentSystem/Temp
 EntityComponentSystem/.vs
 EntityComponentSystem/.vscode
+NavMesh/Library
+NavMesh/Temp
+NavMesh/.vs
+NavMesh/.vscode
