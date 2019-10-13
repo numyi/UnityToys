@@ -17,6 +17,8 @@ MonoBehaviour:
   - Custom
   - Example
   - General
+  - JokeMaker
   Categories:
   - {fileID: 11400000, guid: 40f9e81ff80114a47a3721228ba749ed, type: 2}
   - {fileID: 11400000, guid: b16be9727cd7593459e738b1eaca179f, type: 2}
+  - {fileID: 11400000, guid: 99dbc603f8ac6884989fbf6a476b06f0, type: 2}
